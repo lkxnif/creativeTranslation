@@ -1,8 +1,10 @@
 # Table of contents
 
+* [简介](README.md)
+
 ## 歌词 <a href="#lyric" id="lyric"></a>
 
-* [《Someone Like You》-Adele](README.md)
+* [《Someone Like You》-Adele](<README (1).md>)
 * [《Dark Hymn》-帕斯卡契约](lyric/dark-hymn.md)
 * [《Your Lullaby 》-Giolì & Assia](lyric/your-lullaby.md)
 * [《Barbarians: ORIGINES》-RB Dance Company](lyric/barbarians.md)
