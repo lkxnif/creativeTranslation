@@ -4,10 +4,6 @@ description: 2023译
 
 # 音乐剧-《Spell Block Tango》
 
-{% embed url="https://www.bilibili.com/video/BV1qz421m7Zi/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
-[Todrick Hall](https://www.bilibili.com/video/av1354405064/)-芝加哥音乐剧
-{% endembed %}
-
 {% tabs %}
 {% tab title="中英版" %}
 {% file src="../.gitbook/assets/Spell Block Tango.srt" %}
@@ -499,6 +495,12 @@ He only have himself to blame\
 If you'd have been there\
 if you'd seen it\
 I bet you you would have done the same
+{% endtab %}
+
+{% tab title="完整视频" %}
+{% embed url="https://www.bilibili.com/video/BV1qz421m7Zi/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
+[Todrick Hall](https://www.bilibili.com/video/av1354405064/)-芝加哥音乐剧
+{% endembed %}
 {% endtab %}
 {% endtabs %}
 

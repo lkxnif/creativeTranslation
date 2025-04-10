@@ -314,8 +314,10 @@ But sometimes it hurts instead&#x20;
 Sometimes it lasts in love \
 But sometimes it hurts instead
 {% endtab %}
-{% endtabs %}
 
+{% tab title="完整视频" %}
 {% embed url="https://www.bilibili.com/video/BV11r4y1n7So/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
 Adele-2021伦敦演唱会
 {% endembed %}
+{% endtab %}
+{% endtabs %}

@@ -264,8 +264,10 @@ Just hold the glass in your hand\
 Don’t leave your pride in the sand\
 And open up to mystery
 {% endtab %}
-{% endtabs %}
 
+{% tab title="完整视频" %}
 {% embed url="https://www.bilibili.com/video/BV1tn4y197ca/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
 RB Dance Company-Barbarians系列
 {% endembed %}
+{% endtab %}
+{% endtabs %}
