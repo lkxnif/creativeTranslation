@@ -127,6 +127,12 @@ And open up to mystery\
 去迎接真谛的降临
 {% endtab %}
 
+{% tab title="完整视频" %}
+{% embed url="https://www.bilibili.com/video/BV1tn4y197ca/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
+RB Dance Company-Barbarians系列
+{% endembed %}
+{% endtab %}
+
 {% tab title="中文翻译" %}
 那些城堡里的人 \
 他们能分辨是非 对吗？ \
@@ -263,11 +269,5 @@ Beyond the streets of misery\
 Just hold the glass in your hand\
 Don’t leave your pride in the sand\
 And open up to mystery
-{% endtab %}
-
-{% tab title="完整视频" %}
-{% embed url="https://www.bilibili.com/video/BV1tn4y197ca/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
-RB Dance Company-Barbarians系列
-{% endembed %}
 {% endtab %}
 {% endtabs %}

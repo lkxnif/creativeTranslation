@@ -152,6 +152,12 @@ But sometimes it hurts instead\
 但有时 以伤人结尾
 {% endtab %}
 
+{% tab title="完整视频" %}
+{% embed url="https://www.bilibili.com/video/BV11r4y1n7So/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
+Adele-2021伦敦演唱会
+{% endembed %}
+{% endtab %}
+
 {% tab title="中文翻译" %}
 我听说 \
 你要安家了 \
@@ -313,11 +319,5 @@ But sometimes it hurts instead&#x20;
 
 Sometimes it lasts in love \
 But sometimes it hurts instead
-{% endtab %}
-
-{% tab title="完整视频" %}
-{% embed url="https://www.bilibili.com/video/BV11r4y1n7So/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
-Adele-2021伦敦演唱会
-{% endembed %}
 {% endtab %}
 {% endtabs %}

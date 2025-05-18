@@ -47,6 +47,12 @@ I'll be lost in your lullaby\
 La lala lala lala li la li la, la lala lala
 {% endtab %}
 
+{% tab title="完整视频" %}
+{% embed url="https://www.bilibili.com/video/BV1Ne4y1a7hG/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
+Giolì & Assia-Moon Faces EP专辑
+{% endembed %}
+{% endtab %}
+
 {% tab title="中文翻译" %}
 我找到心火 何处燃烧 \
 我置身谎言 荆棘背刺 \
@@ -89,11 +95,5 @@ I'll get through all these scars \
 Running through thousand miles \
 I'm on a swing on fire \
 I'll be lost in your lullaby
-{% endtab %}
-
-{% tab title="完整视频" %}
-{% embed url="https://www.bilibili.com/video/BV1Ne4y1a7hG/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
-Giolì & Assia-Moon Faces EP专辑
-{% endembed %}
 {% endtab %}
 {% endtabs %}

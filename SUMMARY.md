@@ -9,6 +9,10 @@
 * [《Your Lullaby 》-Giolì & Assia](lyric/your-lullaby.md)
 * [《Barbarians: ORIGINES》-RB Dance Company](lyric/barbarians.md)
 
+***
+
+* [《Million Years Ago》-Adele](million-years-ago-adele.md)
+
 ## 文章 <a href="#article" id="article"></a>
 
 * [鲁迅（节选）](article/luxun.md)

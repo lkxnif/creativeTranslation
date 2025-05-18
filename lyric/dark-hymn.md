@@ -61,6 +61,12 @@ With the holy light \
 圣光同道
 {% endtab %}
 
+{% tab title="完整视频" %}
+{% embed url="https://www.bilibili.com/video/BV1nL4y1L7vH/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
+帕斯卡契约-游戏主题曲
+{% endembed %}
+{% endtab %}
+
 {% tab title="中文翻译" %}
 唤起太阳 \
 烧于深海 \
@@ -123,11 +129,5 @@ Scrambling alone \
 Wandering the mist \
 A martyr will come \
 With the holy light
-{% endtab %}
-
-{% tab title="完整视频" %}
-{% embed url="https://www.bilibili.com/video/BV1nL4y1L7vH/?share_source=copy_web&vd_source=c65760621817313d07fae8b25a471499" %}
-帕斯卡契约-游戏主题曲
-{% endembed %}
 {% endtab %}
 {% endtabs %}
