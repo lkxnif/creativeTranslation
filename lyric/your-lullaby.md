@@ -74,26 +74,4 @@ Giolì & Assia-Moon Faces EP专辑
 在火中的秋千上 \
 迷失在你的摇篮
 {% endtab %}
-
-{% tab title="英文原版" %}
-I found my fire, where to burn\
-I laid in lies, a bed of thorns \
-But after all these thousand faults \
-I'll keep you mine, within my bones&#x20;
-
-I'll get through all these scars\
-Running through thousand miles \
-I'm on a swing on fire \
-I'll be lost in your lullaby&#x20;
-
-I needed time to know was wrong \
-But you never know it, when it comes \
-A feeling deep into my lungs \
-A dried flower who wants reborn&#x20;
-
-I'll get through all these scars \
-Running through thousand miles \
-I'm on a swing on fire \
-I'll be lost in your lullaby
-{% endtab %}
 {% endtabs %}

@@ -151,59 +151,6 @@ Pas les menus plaisirs, pas les petits sourires, les sortilèges \
 我要能掌控生死簿\
 不仅仅是尊重 不单单是微笑 我要全部
 {% endtab %}
-
-{% tab title="法文原版" %}
-On m’a souvent dit 'Reste à ta place' \
-Les acquis des nantis te dépassent \
-Le lit où tu es né t’interdit de viser plus haut
-
-On a souvent rit de mon audace \
-L’habit fait le moine quoi que tu fasses \
-Rampe au lieu d’espérer tu n’es bon qu’à courber le dos
-
-On est ce qu’on est tu dis merci et c’est tout \
-Il faut s’incliner sans s’indigner jusqu’au bout \
-Sois tu nais roi, sois tu n’es rien mais dis-moi \
-Pourquoi ce chemin de croix
-
-Je veux la gloire à mes genoux \
-Je veux le monde ou rien du tout \
-Pas les menus plaisirs, pas les petits désirs, les privilèges
-
-Je veux les plaies de l’amour fou \
-Je veux la corde à votre cou \
-Pas les menus plaisirs, pas les petits sourires, les sortilèges
-
-On m’a souvent mis plus bas que terre \
-Ainsi soit la vie au nom du père \
-Mais qu’ai-je donc appris si ce n’est à prier par cœur
-
-Faut-il implorer sans jamais toucher le ciel \
-Que je reste cloué sans déployer mes ailes \
-Amen à tout n’amène à rien, maudits soient
-
-Le sort les lois, je ne m’y soumets pas \
-Ne me demandez plus de marcher droit \
-J’éprouverai vos torts, j’adore le chemin que je vois \
-J’enterrerai derrière moi \
-L’idiot qu’on veut que je sois
-
-Je veux la gloire à mes genoux \
-Je veux le monde ou rien du tout \
-Pas les menus plaisirs, pas les petits désirs, les privilèges
-
-Je veux les plaies de l’amour fou \
-Je veux la corde à votre cou \
-Pas les menus plaisirs, pas les petits sourires, les sortilèges
-
-Je veux la gloire à mes genoux \
-Je veux le monde ou rien du tout \
-Pas les menus plaisirs, pas les petits désirs, les privilèges
-
-Je veux les plaies de l’amour fou \
-Je veux la corde à votre cou \
-Pas les menus plaisirs, pas les petits sourires, les sortilèges
-{% endtab %}
 {% endtabs %}
 
 {% embed url="https://v.douyin.com/iU8k1tpd/" %}

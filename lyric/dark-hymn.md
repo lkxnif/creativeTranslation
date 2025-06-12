@@ -98,36 +98,4 @@ With the holy light \
 先驱将至 \
 圣光同道
 {% endtab %}
-
-{% tab title="英文原版" %}
-Awaken the sun \
-Burning in deep \
-Beset by a fog \
-This wretched earth&#x20;
-
-Trapped in the dark \
-Tremble in fear \
-Expelled from our homes \
-Reborn in this hell&#x20;
-
-Crying howling \
-Drowning in plight \
-The one we all know \
-Will come with light&#x20;
-
-Scrambling alone \
-Wandering the mist \
-A martyr will come \
-To end the night&#x20;
-
-Hoping praying \
-Entering the grave \
-Awaiting the fate \
-Of that final day&#x20;
-
-Scrambling alone \
-Wandering the mist \
-A martyr will come \
-With the holy light
-{% endtab %}
 {% endtabs %}
