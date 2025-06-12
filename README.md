@@ -1,5 +1,7 @@
 # 简介
 
+<div align="left"><img src="https://img.shields.io/badge/docs-GitBook-blue?logo=gitbook" alt="GitBook"> <img src="https://img.shields.io/github/last-commit/lkxnif/creativeTranslation" alt="Last Commit"> <img src="https://img.shields.io/github/license/lkxnif/creativeTranslation" alt="License"></div>
+
 欢迎来到我的译文库！\
 这里收集了一些我个人的翻译成果以及喜爱的翻译作品，希望这些内容能带给你共鸣与感动。\
 你可以通过以下链接更方便地在线阅读：[GitBook在线阅读](https://lkxnifs-workspace.gitbook.io/martyr)
